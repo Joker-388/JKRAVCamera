@@ -1,4 +1,4 @@
-#JKRAVCameraDem
+#JKRAVCameraDemo
 这个我创建的一个视频录制编辑Demo：
 1，实现了自定义相机界面
 2，闪光定开关
